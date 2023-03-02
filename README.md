@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## App description 
+
+this application is online store created using angular as a main frame-work from the front-end part and fake api just to get the data to render , the design part is combanition between the sass define classes and boostrap classes , this application is not built for real life usage it's just for learning purposes , just to get quick overview on how the angular from-work preform , the structure of it and ofcourse how we can split the project in to multiple modules and components to unlock the real power of angular .
+
+## App Usage
+
+as a client you can check the items , get the details about each item such as name , count , rating .... , and you can filter the based on categories , and ofcourse you add to your cart any item with any quantity you want , and you can send your request to the back-end server .
+
+
